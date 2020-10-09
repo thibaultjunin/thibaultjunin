@@ -12,6 +12,7 @@ Hi there 👋 I'm Thibault JUNIN, Backend developer at [stantabcorp](https://sta
 ![R](https://img.shields.io/badge/-r-276dc3?logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/-python-3776ab?logo=python&logoColor=white)
 ![MySql](https://img.shields.io/badge/-mysql-4479a1?logo=mysql&logoColor=white)
+![OCaml](https://img.shields.io/badge/-OCaml-f08a2b?logo=ocaml&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-fcc624?logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/-docker-2496ed?logo=docker&logoColor=white)
