@@ -6,7 +6,6 @@ Hi there 👋 I'm Thibault JUNIN, Backend developer at [stantabcorp](https://sta
 ![CSS](https://img.shields.io/badge/-CSS-1572b6?logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/-javascript-f7df1e?logo=javascript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?logo=vue.js&logoColor=white)
-![JS](https://img.shields.io/badge/-javascript-f7df1e?logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-php-777bb4?logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-007396?logo=java&logoColor=white)
 ![R](https://img.shields.io/badge/-r-276dc3?logo=r&logoColor=white)
